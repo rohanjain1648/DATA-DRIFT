@@ -35,5 +35,6 @@ To run this project locally:
    ```bash
    pip install -r requirements.txt
 
-VISULAISATIONS:
-![Dashboard Screenshot](./image/Screenshot 2025-04-20 150612.png)
+## VISUALISATIONS:
+![Dashboard Screenshot](./image/Screenshot%202025-04-20%20150612.png)
+

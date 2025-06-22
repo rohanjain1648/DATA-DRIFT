@@ -34,3 +34,6 @@ To run this project locally:
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
+
+VISULAISATIONS:
+![Dashboard Screenshot](./assets/dashboard.png)

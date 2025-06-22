@@ -36,4 +36,4 @@ To run this project locally:
    pip install -r requirements.txt
 
 VISULAISATIONS:
-![Dashboard Screenshot](./assets/dashboard.png)
+![Dashboard Screenshot](./image/Screenshot 2025-04-20 150612.png)
